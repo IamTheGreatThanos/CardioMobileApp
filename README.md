@@ -1,4 +1,4 @@
-# cardio_app
+# Mobile App for Cardio
 
 A new Flutter project.
 
